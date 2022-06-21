@@ -1,24 +1,40 @@
 #Скрипт конвертации чисел двоичной и десятичной системы счисления
-#Без обработки ошибок
 #Автор ArtemKAF
 
 def bin2dec(number):
-    c_number = number
-    print(c_number, type(c_number))
+    i = 0
+    conv = 0
+    while number // 10 != 0:
+        if number % 10:
+            conv = conv + 2 ** i
+            number = number // 10
+            i += 1
+        else:
+            number = number // 10
+            i += 1
+    conv = conv + 2 ** i
+    print(conv, type(conv))
 
 def dec2bin(number):
-    c_number = number
-    print(c_number, type(c_number))
+    i = 0
+    conv = ""
+    while number != 0:
+        i += 1
+        if number % 2:
+            conv = conv.rjust(i, '1')
+        else:
+            conv = conv.rjust(i, '0')
+        number = number // 2
+    print(conv, type(conv))
 
 if __name__ == '__main__':
     number = int(input("Введите число для конвертации:"))
-    num_sys1 = int(input("Введите основание системы счисления этого числа:"))
-    num_sys2 = int(input("Введите основание желаемой системы счисления:"))
+    num_sys = int(input("Введите основание желаемой системы счисления:"))
 
-    if num_sys2 == 10:
+    if num_sys == 10:
         bin2dec(number)
-    elif num_sys2 == 2:
+    elif num_sys == 2:
         dec2bin(number)
     else:
-        print(f"Программа не умеет переводить числа в систему счисления с основанием {num_sys2}")
+        print(f"Программа не умеет переводить числа в систему счисления с основанием {num_sys}")
     print("Конец программы")
