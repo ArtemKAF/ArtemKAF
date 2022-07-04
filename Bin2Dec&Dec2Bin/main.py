@@ -1,6 +1,7 @@
 #Скрипт конвертации чисел двоичной и десятичной системы счисления
 #Автор ArtemKAF
 
+
 def bin2dec(number):
     i = 0
     conv = 0
@@ -13,7 +14,7 @@ def bin2dec(number):
             number = number // 10
             i += 1
     conv = conv + 2 ** i
-    print(conv, type(conv))
+
 
 def dec2bin(number):
     i = 0
@@ -25,7 +26,7 @@ def dec2bin(number):
         else:
             conv = conv.rjust(i, '0')
         number = number // 2
-    print(conv, type(conv))
+
 
 if __name__ == '__main__':
     number = int(input("Введите число для конвертации:"))
@@ -37,4 +38,4 @@ if __name__ == '__main__':
         dec2bin(number)
     else:
         print(f"Программа не умеет переводить числа в систему счисления с основанием {num_sys}")
-    print("Конец программы")
+
