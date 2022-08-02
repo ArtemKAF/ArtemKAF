@@ -13,7 +13,8 @@ def bin2dec(number):
         else:
             number = number // 10
             i += 1
-    conv = conv + 2 ** i
+    conv += 2 ** i
+    return conv
 
 
 def dec2bin(number):
@@ -26,6 +27,7 @@ def dec2bin(number):
         else:
             conv = conv.rjust(i, '0')
         number = number // 2
+    return conv
 
 
 if __name__ == '__main__':
@@ -33,9 +35,9 @@ if __name__ == '__main__':
     num_sys = int(input("Введите основание желаемой системы счисления:"))
 
     if num_sys == 10:
-        bin2dec(number)
+        print(bin2dec(number))
     elif num_sys == 2:
-        dec2bin(number)
+        print(dec2bin(number))
     else:
         print(f"Программа не умеет переводить числа в систему счисления с основанием {num_sys}")
 
