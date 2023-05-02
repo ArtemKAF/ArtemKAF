@@ -3,6 +3,3 @@
 <p align="center">
   <img src="https://www.codewars.com/users/ArtemKAF/badges/large"/>
 </p>
-<kbd>
-  <img src="/images/1.png" width="300" height="300"/>
-</kbd>
