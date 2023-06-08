@@ -28,18 +28,18 @@
 
 ### Немного статистики:
 
-<table>
-<tr>
-<td>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layout=compact"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layouts=compact" />
-</picture>
-</td>
-<td>
-  <img src="https://www.codewars.com/users/ArtemKAF/badges/large"/>
-</td>
-</tr>
+<table cellspacing="0">
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layout=compact"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layouts=compact" />
+      </picture>
+    </td>
+    <td>
+      <img src="https://www.codewars.com/users/ArtemKAF/badges/large"/>
+    </td>
+  </tr>
 </table>
