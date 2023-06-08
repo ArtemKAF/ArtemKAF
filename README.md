@@ -16,15 +16,15 @@
 
 ### Языки программирования и инструменты:
 
-<img alt="VSCode" width="26px" src="./images/vscode.png" style="padding-right:5px;" />
+<a href="https://code.visualstudio.com/"><img alt="VSCode" width="26px" src="./images/vscode.png"></a>
 &nbsp;&nbsp;
-<img alt="PyCharm" width="26px" src="./images/pycharm.png" style="padding-right:5px;" />
+<a href="https://www.jetbrains.com/ru-ru/pycharm/"><img alt="PyCharm" width="26px" src="./images/pycharm.png"></a>
 &nbsp;&nbsp;
-<img alt="SQLite" width="26px" src="./images/sqlite.png" style="padding-right:5px;" />
+<a href="https://www.sqlite.org/index.html"><img alt="SQLite" width="26px" src="./images/sqlite.png"></a>
 &nbsp;&nbsp;
-<img alt="Git" width="26px" src="./images/git.png" style="padding-right:5px;" />
+<a href="https://git-scm.com/"><img alt="Git" width="26px" src="./images/git.png"></a>
 &nbsp;&nbsp;
-<img alt="GitHub" width="26px" src="./images/github.png" style="padding-right:5px;" />
+<a href="https://github.com/"><img alt="GitHub" width="26px" src="./images/github.png"></a>
 
 ### Немного статистики:
 
