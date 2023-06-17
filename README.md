@@ -11,35 +11,33 @@
 
 ### Как со мной связаться:
 
-<a href="mailto:kaf-artem@yandex.ru"><img src="https://cdn.simpleicons.org/mail.ru/#005FF9" width="26"></a>
+<a href="mailto:kaf-artem@yandex.ru"><img src="./images/svg/maildotru-color.svg" width="26"></a>
 &nbsp;&nbsp;
-<a href="https://t.me/ArtemKAF"><img src="https://cdn.simpleicons.org/telegram/#26A5E4" width="26"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/ArtemKAF"><img src="https://cdn.simpleicons.org/github/#181717" width="26"></a>
+<a href="https://t.me/ArtemKAF"><img src="./images/svg/telegram-color.svg" width="26"></a>
 
 ### Языки программирования и инструменты:
 
-<a href="https://www.python.org/"><img alt="VSCode" width="26px" src="https://cdn.simpleicons.org/python/#3776AB"></a>
+<a href="https://www.python.org/"><img alt="VSCode" width="26px" src="./images/svg/python-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img alt="VSCode" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC"></a>
+<a href="https://code.visualstudio.com/"><img alt="VSCode" width="26px" src="./images/svg/visualstudiocode-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://www.jetbrains.com/ru-ru/pycharm/"><img alt="PyCharm" width="26px" src="https://cdn.simpleicons.org/pycharm/#000000"></a>
+<a href="https://www.jetbrains.com/ru-ru/pycharm/"><img alt="PyCharm" width="26px" src="./images/svg/pycharm-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://www.djangoproject.com/"><img alt="PyCharm" width="26px" src="https://cdn.simpleicons.org/django/#092E20"></a>
+<a href="https://www.djangoproject.com/"><img alt="Django" width="26px" src="./images/svg/django-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://www.sqlite.org/index.html"><img alt="SQLite" width="26px" src="https://cdn.simpleicons.org/sqlite/#003B57"></a>
+<a href="https://www.sqlite.org/index.html"><img alt="SQLite" width="26px" src="./images/svg/sqlite-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://git-scm.com/"><img alt="Git" width="26px" src="https://cdn.simpleicons.org/git/#F05032"></a>
+<a href="https://git-scm.com/"><img alt="Git" width="26px" src="./images/svg/git-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/"><img alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/#181717"></a>
+<a href="https://github.com/"><img alt="GitHub" width="26px" src="./images/svg/github-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/features/actions/"><img alt="GitHub Actions" width="26px" src="https://cdn.simpleicons.org/githubactions/#2088FF"></a>
+<a href="https://github.com/features/actions/"><img alt="GitHub Actions" width="26px" src="./images/svg/githubactions-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://www.docker.com/"><img alt="Docker" width="26px" src="https://cdn.simpleicons.org/docker/#2496ED"></a>
+<a href="https://www.docker.com/"><img alt="Docker" width="26px" src="./images/svg/docker-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://fedoraproject.org/"><img alt="Fedora" width="26px" src="https://cdn.simpleicons.org/fedora/#51A2DA"></a>
+<a href="https://fedoraproject.org/"><img alt="Fedora" width="26px" src="./images/svg/fedora-color.svg"></a>
 &nbsp;&nbsp;
-<a href="https://linuxmint.com/"><img alt="Mint" width="26px" src="https://cdn.simpleicons.org/linuxmint/#87CF3E"></a>
+<a href="https://linuxmint.com/"><img alt="Mint" width="26px" src="./images/svg/linuxmint-color.svg"></a>
 <hr>
 
 ### Немного статистики:
