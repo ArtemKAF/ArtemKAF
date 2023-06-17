@@ -33,9 +33,14 @@
 &nbsp;&nbsp;
 <a href="https://github.com/"><img alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/#181717"></a>
 &nbsp;&nbsp;
+<a href="https://github.com/features/actions/"><img alt="GitHub Actions" width="26px" src="https://cdn.simpleicons.org/githubactions/#2088FF"></a>
+&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img alt="Docker" width="26px" src="https://cdn.simpleicons.org/docker/#2496ED"></a>
+&nbsp;&nbsp;
 <a href="https://fedoraproject.org/"><img alt="Fedora" width="26px" src="https://cdn.simpleicons.org/fedora/#51A2DA"></a>
 &nbsp;&nbsp;
 <a href="https://linuxmint.com/"><img alt="Mint" width="26px" src="https://cdn.simpleicons.org/linuxmint/#87CF3E"></a>
+<hr>
 
 ### Немного статистики:
 
