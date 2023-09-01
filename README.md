@@ -59,3 +59,6 @@
     </td>
   </tr>
 </table>
+
+### Немного юмора:
+![find_job_in_IT 8a056ba74d78](https://github.com/ArtemKAF/ArtemKAF/assets/107637814/fe765f18-2142-4436-a2a7-107de15f2762)
