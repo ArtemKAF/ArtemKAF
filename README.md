@@ -13,7 +13,7 @@
 
 <a href="mailto:kaf-artem@yandex.ru"><img src="https://cdn.simpleicons.org/mail.ru/#005FF9" width="26"></a>
 &nbsp;&nbsp;
-<a href="https://t.me/ArtemKAF"><img src="https://cdn.simpleicons.org/telegram/#26A5E4" width="26"></a>
+<a href="https://t.me/gartemKAF"><img src="https://cdn.simpleicons.org/telegram/#26A5E4" width="26"></a>
 &nbsp;&nbsp;
 <a href="https://github.com/ArtemKAF"><img src="https://cdn.simpleicons.org/github/#181717" width="26"></a>
 
