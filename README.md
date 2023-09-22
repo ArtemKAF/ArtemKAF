@@ -1,12 +1,12 @@
-<center>
+<p align=center>
   <span>
     <img src="./images/Hi.gif" width="32" alt="Hi!">
   </span>
-  <span style="font-size: 200%;">
+  <span class="h1">
       Привет, меня зовут
       <a href="https://t.me/gartemKAF" target="_blank">Артем.</a>
   </span>
-</center>
+</p>
 
 ### Немного обо мне:
 - 🌱 в 2022 году я познакомился с Python и до сих пор изучаю его особенности и другие инструменты, которые позволяют создавать полезные и не очень программы.
@@ -52,10 +52,10 @@
 
 ### Немного статистики:
 
-<center>
-  <table style="cellspacing: 0;">
-    <tr>
-      <td>
+<p align="center">
+  <table border="none">
+    <tr border="none">
+      <td border="none">
         <picture>
           <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layout=compact"
@@ -63,9 +63,9 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layouts=compact" />
         </picture>
       </td>
-      <td>
+      <td border="none">
         <img src="https://www.codewars.com/users/ArtemKAF/badges/large"/>
       </td>
     </tr>
   </table>
-</center>
+</p>
