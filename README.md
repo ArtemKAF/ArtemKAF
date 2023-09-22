@@ -1,12 +1,12 @@
-<div style="display: flex; justify-content: center;">
-  <div>
-    <img src="./images/Hi.gif" width="32" height="32" alt="Hi!">
-  </div>
-  <div style="font-size: 2em;">
+<center>
+  <span>
+    <img src="./images/Hi.gif" width="32" alt="Hi!">
+  </span>
+  <span class="f1">
       Привет, меня зовут
       <a href="https://t.me/gartemKAF" target="_blank">Артем.</a>
-  </div>
-</div>
+  </span>
+</center>
 
 ### Немного обо мне:
 - 🌱 в 2022 году я познакомился с Python и до сих пор изучаю его особенности и другие инструменты, которые позволяют создавать полезные и не очень программы.
