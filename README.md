@@ -1,10 +1,12 @@
-<p align=center>
+<p align="center">
   <span>
     <img src="./images/Hi.gif" width="32" alt="Hi!">
   </span>
-  <span class="h1">
+  <span>
+    <font size="24px">
       Привет, меня зовут
       <a href="https://t.me/gartemKAF" target="_blank">Артем.</a>
+    </font>
   </span>
 </p>
 
@@ -53,19 +55,9 @@
 ### Немного статистики:
 
 <p align="center">
-  <table border="none">
-    <tr border="none">
-      <td border="none">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layout=compact"
-          />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layouts=compact" />
-        </picture>
-      </td>
-      <td border="none">
-        <img src="https://www.codewars.com/users/ArtemKAF/badges/large"/>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layouts=compact" />
+  </picture>
+  <img src="https://www.codewars.com/users/ArtemKAF/badges/large"/>
 </p>
