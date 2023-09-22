@@ -2,11 +2,9 @@
   <div>
     <img src="./images/Hi.gif" width="32" height="32" alt="Hi!">
   </div>
-  <div>
-    <h1>
+  <div style="font-size: 2em;">
       Привет, меня зовут
       <a href="https://t.me/gartemKAF" target="_blank">Артем.</a>
-    </h1>
   </div>
 </div>
 
