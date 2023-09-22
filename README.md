@@ -1,9 +1,9 @@
-<p align="center">
+<p align="center" style="font-size: 20px">
   <span>
     <img src="./images/Hi.gif" width="32" alt="Hi!">
   </span>
   <span>
-    <font size="24px">
+    <font size="6">
       Привет, меня зовут
       <a href="https://t.me/gartemKAF" target="_blank">Артем.</a>
     </font>
