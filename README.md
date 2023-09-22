@@ -1,4 +1,14 @@
-<h1 align="center"><img src="./images/Hi.gif" width="32" height="32"> Привет, меня зовут <a href="https://t.me/gartemKAF" target="_blank">Артем.</a></h1>
+<div style="display: flex; justify-content: center;">
+  <div>
+    <img src="./images/Hi.gif" width="32" height="32" alt="Hi!">
+  </div>
+  <div>
+    <h1>
+      Привет, меня зовут
+      <a href="https://t.me/gartemKAF" target="_blank">Артем.</a>
+    </h1>
+  </div>
+</div>
 
 ### Немного обо мне:
 - 🌱 в 2022 году я познакомился с Python и до сих пор изучаю его особенности и другие инструменты, которые позволяют создавать полезные и не очень программы.
@@ -61,4 +71,6 @@
 </table>
 
 ### Немного юмора:
-![find_job_in_IT 8a056ba74d78](https://github.com/ArtemKAF/ArtemKAF/assets/107637814/fe765f18-2142-4436-a2a7-107de15f2762)
+<div align="center">
+  ![find_job_in_IT 8a056ba74d78](https://github.com/ArtemKAF/ArtemKAF/assets/107637814/fe765f18-2142-4436-a2a7-107de15f2762)
+</div>
