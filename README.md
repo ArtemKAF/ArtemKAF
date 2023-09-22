@@ -2,7 +2,7 @@
   <span>
     <img src="./images/Hi.gif" width="32" alt="Hi!">
   </span>
-  <span class="f1">
+  <span style="font-size: 200%;">
       Привет, меня зовут
       <a href="https://t.me/gartemKAF" target="_blank">Артем.</a>
   </span>
@@ -52,23 +52,20 @@
 
 ### Немного статистики:
 
-<table cellspacing="0">
-  <tr>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layout=compact"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layouts=compact" />
-      </picture>
-    </td>
-    <td>
-      <img src="https://www.codewars.com/users/ArtemKAF/badges/large"/>
-    </td>
-  </tr>
-</table>
-
-### Немного юмора:
-<div align="center">
-  ![find_job_in_IT 8a056ba74d78](https://github.com/ArtemKAF/ArtemKAF/assets/107637814/fe765f18-2142-4436-a2a7-107de15f2762)
-</div>
+<center>
+  <table style="cellspacing: 0;">
+    <tr>
+      <td>
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layout=compact"
+          />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKAF&layouts=compact" />
+        </picture>
+      </td>
+      <td>
+        <img src="https://www.codewars.com/users/ArtemKAF/badges/large"/>
+      </td>
+    </tr>
+  </table>
+</center>
